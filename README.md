@@ -33,4 +33,4 @@ hands-on learning journey in cybersecurity.
 - Google Cybersecurity Certificate (applied, pending)
 
 ## 📫 Connect With Me
-- LinkedIn: (add your LinkedIn URL here)
+- LinkedIn: www.linkedin.com/in/sarthak-deore-2bb530388
