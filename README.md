@@ -16,7 +16,7 @@ hands-on learning journey in cybersecurity.
 - `/Linux` - Linux commands and notes
 - `/projects/port-scanner` - Custom port scanner built in Python
 - `/TryHackMe` - Notes from TryHackMe rooms
-- `/notes` - General cybersecurity concepts
+- `/certifications` - My certificates
 
 ## 🚀 Projects
 | Project | Description | Language |
@@ -28,9 +28,13 @@ hands-on learning journey in cybersecurity.
 - 🔄 Pre-Security Path (in progress)
 
 ## 📜 Certifications
-- Ethical Hacking — Tutedude (completed)
-- Cybersecurity — Tutedude (in progress)
-- Google Cybersecurity Certificate (applied, pending)
+| Certificate | Platform | Status |
+|---|---|---|
+| Ethical Hacking | Tutedude | ✅ Completed |
+| Cybersecurity | Tutedude | 🔄 In Progress |
+| Google Cybersecurity Certificate | Coursera | ⏳ Pending |
+
+![Ethical Hacking Certificate](certificate_TD-SART-EH-0739.png)
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/sarthak-deore-2bb530388
+- 🔗 [LinkedIn](http://www.linkedin.com/in/sarthak-deore-2bb530388)
